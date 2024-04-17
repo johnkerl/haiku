@@ -1,0 +1,10 @@
+#!/bin/bash
+
+title="$1"
+shift
+
+echo "<p><hr>"
+echo "<p>"
+echo "<span class="boldmaroon">${title}</span>"
+
+cat "$@" | sed -e 's/--/\&mdash;/g' -e 's/^/<br>/'
