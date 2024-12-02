@@ -7,7 +7,7 @@ echo "<p><hr>"
 echo "<p>"
 echo "<span class="boldmaroon">${title}</span>"
 
-cat "$@" | sed -e 's/--/\&mdash;/g' -e 's/^/<br>/' -e "s/'/\&rsquo;/"
+cat "$@" | sed -e 's/^  *//' -e 's/--/\&mdash;/g' -e 's/^/<br>/' -e "s/'/\&rsquo;/"
 
 #git add index.html
 #git commit -m $title
