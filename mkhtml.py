@@ -39,7 +39,7 @@ num_per_row = 3
 
 print(header)
 
-with open('haikus.txt') as f:
+with open('items.txt') as f:
     body = f.read()
 
 body = body.strip()
