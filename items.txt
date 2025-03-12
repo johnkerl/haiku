@@ -9,7 +9,7 @@ we were glued to the TV --
 dreams falling to earth
 
 return
-"<Person> is typing: ...
+&ldquo;<Person> is typing: ...&rdquo;
 says Slack ... and my gut tightens ...
 please just hit Return
 
@@ -250,7 +250,7 @@ calm is not enough
 
 form
 In the form of a
-"growth opportunity", hard
+&ldquo;growth opportunity&rdquo;, hard
 words land with a wince
 
 magnet
@@ -469,9 +469,9 @@ if done well; meter, truer,
 beats like human hearts
 
 posture
-Don't google "headaches" --
+Don't google &ldquo;headaches&rdquo; --
 it will scare you -- Mom was right:
-"Sit up straight, young man!"
+&ldquo;Sit up straight, young man!&rdquo;
 
 forum
 Forest waterfall
@@ -484,7 +484,7 @@ through memory like a clerk
 through stacks of paper
 
 demonstrate
-"Unmonster this room" --
+&ldquo;Unmonster this room&rdquo; --
 new word like _defenestrate_ --
 you're very welcome
 
@@ -784,7 +784,7 @@ equinox notwithstanding --
 summer's a lame duck
 
 horseback
-"O Muse, we are lost!"
+&ldquo;O Muse, we are lost!&rdquo;
 I cried until hoarse, back
 when I knew we'd fail
 
@@ -934,7 +934,7 @@ heavy loads are lifted by
 weak hands -- and much rope
 
 moment
-"I am not sleepy!"
+&ldquo;I am not sleepy!&rdquo;
 In times of such great moment,
 child's power stands tall
 
@@ -1024,7 +1024,7 @@ job, Dad, us two kids fighting?
 Too late to ask her
 
 leap
-"Pleased to meet you", smile,
+&ldquo;Pleased to meet you&rdquo;, smile,
 and turn -- no great leap to guess:
 no love is lost there
 
@@ -1045,7 +1045,7 @@ jump out of my skin
 
 paint
 While I'm awaiting
-"Your call's important to us!",
+&ldquo;Your call's important to us!&rdquo;,
 paint on wall peels
 
 squash
