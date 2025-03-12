@@ -8,6 +8,11 @@ glue
 we were glued to the TV --
 dreams falling to earth
 
+return
+"<Person> is typing: ...
+says Slack ... and my gut tightens ...
+please just hit Return
+
 cleave
 A mighty arm, a
 thud that lands in butcher block --
