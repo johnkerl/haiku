@@ -29,7 +29,7 @@ we were glued to the TV --
 dreams falling to earth
 
 return
-&ldquo;<Person> is typing: ...&rdquo;
+&ldquo;&lt;Person&gt; is typing: ...&rdquo;
 says Slack ... and my gut tightens ...
 please just hit Return
 
@@ -478,11 +478,6 @@ Nerves, best intentions --
 clambering over my tongue,
 words stumble, inept
 
-clamber
-Nerves, best intentions --
-clambering over my tongue,
-words stumble, inept
-
 shade
 As one half of earth
 shades the other -- an orange
@@ -510,7 +505,7 @@ through stacks of paper
 
 demonstrate
 &ldquo;Unmonster this room&rdquo; --
-new word like _defenestrate_ --
+new word like <i>defenestrate</i> --
 you're very welcome
 
 wrestle
@@ -1149,7 +1144,7 @@ is ready for me to work
 on it ... excuses ...
 
 evade
-But how was _your_ day?
+But how was <i>your</i> day?
 I hasten to add, hoping
 you'll follow the slip
 

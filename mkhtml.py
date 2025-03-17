@@ -62,8 +62,6 @@ for paragraph in paragraphs:
         line = re.sub("^  *", "", line)
         line = re.sub("--", "&mdash;", line)
         line = re.sub("'", "&rsquo;", line)
-        line = re.sub("<", "&lt;", line)
-        line = re.sub(">", "&gt;", line)
 
         print(f"      <br>{line}")
 
