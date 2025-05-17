@@ -1,3 +1,8 @@
+capture
+Pawns, rooks leave the board --
+not so the king -- when cornered,
+hands up, surrenders
+
 stir
 Hobbits climb uphill --
 standing in mist between stones --
