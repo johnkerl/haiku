@@ -3,10 +3,14 @@
 set -euo pipefail
 
 ./mkhtml.py > index.html
+
 git add items.txt index.html
 git commit -m today
 git push
+
 synctool -r u58051762@home321765456.1and1-data.host pushpwd
+
 echo
 echo Count: $(grep -c boldmaroon index.html)
+
 echo DONE
