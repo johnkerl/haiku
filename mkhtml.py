@@ -67,6 +67,7 @@ for paragraph in paragraphs:
     if (i % num_per_row) == 0:
         print("  <tr>")
     print("    <td>")
+    print(f'      <a id="{title}">')
     print(f"      <span class=boldmaroon>{title}</span>")
 
     for line in lines:
