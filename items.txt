@@ -1,3 +1,8 @@
+draw
+A bowstring is drawn
+An archer's breath is held still
+Deer leaps, fast enough
+
 stick
 To stick the landing:
 practice it a thousand times,
