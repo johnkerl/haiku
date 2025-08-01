@@ -3,6 +3,11 @@ A bowstring is drawn
 An archer's breath is held still
 Deer leaps, fast enough
 
+bind
+Ulysses wrist-bound
+so he couldn't crash the boat --
+no hands-free mode there
+
 stick
 To stick the landing:
 practice it a thousand times,
