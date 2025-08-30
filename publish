@@ -2,15 +2,22 @@
 
 set -euo pipefail
 
+echo ---------------------------------------------------------------- GENERATE HTML
 ./mkhtml.py > index.html
 
+echo
+echo ---------------------------------------------------------------- GIT
 git add items.txt index.html
-git commit -m today
+git commit -m today || true
 git push
 
+echo
+echo ---------------------------------------------------------------- SYNC
 synctool -r u58051762@home321765456.1and1-data.host pushpwd
 
 echo
+echo ---------------------------------------------------------------- SYNC
 echo Count: $(grep -c boldmaroon index.html)
 
-echo DONE
+echo
+echo ---------------------------------------------------------------- DONE
