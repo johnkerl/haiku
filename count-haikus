@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo Count: $(grep -c boldmaroon index.html)

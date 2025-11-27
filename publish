@@ -17,7 +17,7 @@ synctool -r u58051762@home321765456.1and1-data.host pushpwd
 
 echo
 echo ---------------------------------------------------------------- SYNC
-echo Count: $(grep -c boldmaroon index.html)
+./count-haikus
 
 echo
 echo ---------------------------------------------------------------- DONE
