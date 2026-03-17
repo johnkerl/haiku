@@ -2344,9 +2344,9 @@ art Shakespearean in thy
 cunning treacheries
 
 rip
-Leave me high and dry --
-I'm fine. Tell me I don't try --
-my heart rips in two
+Leave me high and dry:
+I'm fine. Tell me I don't try:
+my heart rips in two.
 
 seek
 Friday feet seek porch
@@ -2514,7 +2514,7 @@ envy, pride, sloth, crankiness --
 we forgive ourselves
 
 rebuild
-Decades in I know
+Decades in, I know
 not all is best the first time --
 we rebuild, better
 
