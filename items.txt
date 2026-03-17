@@ -1823,12 +1823,7 @@ Scrolling: whether to
 suffer the slings and arrows
 without engaging
 
-joker
-Kings, queens, jacks suffered
--- but the joker -- an
-Americanism
-
-king
+king joker
 Kings, queens, jacks abide
 broadly; the joker is an
 Americanism
@@ -2165,7 +2160,7 @@ forever wounded
 
 visit
 Night visitor
-whispers &ldquo;You’re not good enough&rdquo;
+whispers &ldquo;You're not good enough&rdquo;
 into my dark dreams
 
 herd
