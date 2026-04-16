@@ -46,7 +46,7 @@ unclaimed, judgment-free
 bar
 A failed lawyer
 seeks solace at the counter:
-"make it a double"
+<i>make it a double</i>
 
 grant
 Gods, grant me wisdom
