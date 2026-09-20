@@ -29,7 +29,7 @@ td {
 </head>
 
 <body bgcolor="#ffffff"
-link="#993333" vlink="#888888" alink="#cc3333">
+link="#800000" vlink="#888888" alink="#cc3333">
 
 <p>These are haiku/senryu I&rsquo;ve published on Threads, and then Bluesky. Each is preceded by the
 day&rsquo;s single-word prompt by <code>@haikufeels</code> / <code>@annemorrigan</code>.
